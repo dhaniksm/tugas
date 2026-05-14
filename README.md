@@ -1,17 +1,20 @@
-# tugas
+Doksli :
 
-A new Flutter project.
+Login
 
-## Getting Started
+<img width="360" height="820" alt="Login" src="https://github.com/user-attachments/assets/e21a0ce0-15fb-48ce-9f4c-379ee96a6fa9" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Home
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<img width="360" height="820" alt="Home" src="https://github.com/user-attachments/assets/fe987241-faef-4d95-8a0e-d717cc010355" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Tambah
+
+<img width="360" height="820" alt="Tambah" src="https://github.com/user-attachments/assets/5dc88fae-9477-4e5f-9c68-4c99d8bb493a" />
+
+
+Submit
+
+<img width="360" height="820" alt="Submit" src="https://github.com/user-attachments/assets/9914b1e3-f779-41b9-ae37-e248d801f5c1" />
